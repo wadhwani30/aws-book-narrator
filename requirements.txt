@@ -1,0 +1,2 @@
+boto3 → Required to interact with AWS services (Polly, S3).
+jsonschema → If you need to validate incoming JSON requests.
